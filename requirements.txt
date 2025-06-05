@@ -1,9 +1,5 @@
 fastapi
-uvicorn[standard]
-sentence-transformers
+uvicorn
 faiss-cpu
+sentence-transformers
 numpy
-transformers
-huggingface_hub
-pydantic
-tqdm
